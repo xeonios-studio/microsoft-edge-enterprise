@@ -42,5 +42,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or issues, please open an issue on the GitHub repository.
-
+If you have any questions or need support, please contact [our customer service.](https://cdn-developer.4lima.de/support-kontakt)
